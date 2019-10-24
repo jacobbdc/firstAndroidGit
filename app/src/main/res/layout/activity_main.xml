@@ -24,6 +24,7 @@
     <!--MainActivity imports activity_main which includes content_main. amazing that supers are taken care of
      allows content_main to have access to functions referenced in mainActivity.kt-->
     <!--testing a change I've made. how long to push this chage? -->
+    <!--this should be gone -->
     <include layout="@layout/content_main" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
